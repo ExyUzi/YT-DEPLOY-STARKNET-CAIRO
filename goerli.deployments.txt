@@ -1,0 +1,1 @@
+0x047a9ee00e5204e93dc356df89d3598a88116b1746adeddbc4256350cc32c916:artifacts/abis/ExyNFT.json:exy_nft
